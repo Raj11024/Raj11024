@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Raj%20SPatel&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Python%20Developer%20🚀&descAlignY=55)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Raj%20Patel&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Python%20Developer%20🚀&descAlignY=55)
 
 
 # 👋 Hi, I'm Raj Patel  
